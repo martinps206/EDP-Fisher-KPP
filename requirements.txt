@@ -1,0 +1,4 @@
+matplotlib
+pyyaml
+numpy
+ffmpeg-python

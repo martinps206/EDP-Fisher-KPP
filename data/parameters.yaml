@@ -1,0 +1,10 @@
+model:
+  D: 1e-6        # coeficiente de difusión (cm^2/s)
+  r: 0.2         # tasa de crecimiento (1/hora)
+  K: 1.0         # capacidad de carga (mg/ml)
+
+space_time:
+  L: 1.0         # longitud del dominio espacial (cm)
+  T: 10.0        # tiempo total de simulación (horas)
+  Nx: 100        # número de puntos espaciales
+  Nt: 1000       # número de pasos de tiempo
