@@ -137,3 +137,24 @@ scikit-learn
 SymPy
 
 Jinja2 / markdown2 / pdfkit
+
+🧰 Tecnologías
+Python 3.11
+
+FEniCS (solución de EDPs en 2D)
+
+NumPy / Pandas / Matplotlib
+
+Plotly / Streamlit
+
+scikit-learn
+
+SymPy
+
+Jinja2 / markdown2 / pdfkit
+
+📚 Créditos
+Proyecto desarrollado por Martín Paliza Sánchez
+Mentoría técnica y matemática por IA (OpenAI GPT-4o)
+
+Este proyecto puede utilizarse como base para tesis, cursos de posgrado, papers científicos o aplicaciones docentes en bioingeniería, epidemiología computacional o matemática aplicada.
